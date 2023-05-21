@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/userupload/7183875/file/original-fa597c002a35691476efd75e77df50e9.png?compress=1&resize=1504x451)](https://www.linkedin.com/in/mkonline/)
 <h1 align="center">Hi 👋, I'm Mohammad Karimullah</h1>
-<h3 align="center">Full Stack Developer @Web2&3 | Flutter Developer | ML&AI researcher</h3>
+<h3 align="center">Full Stack Developer @Web3&2 | Flutter Developer | ML DS AI Researcher</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
 <!-- <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mk1476" /> </p> -->
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mkonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkonline" height="30" width="40" /></a>
-<a href="https://discord.gg/MK#4351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MK#4351" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
