@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **MKsMailID@gmail.com**
 
-- 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1X3H60fEv5PiyIEdGPbqG8eZMBXZbZOCE/view?usp=share_link) 
+<!-- - 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1X3H60fEv5PiyIEdGPbqG8eZMBXZbZOCE/view?usp=share_link) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
